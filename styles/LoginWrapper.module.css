@@ -1,0 +1,17 @@
+.layout {
+  display: flex;
+  justify-content: space-around;
+  background: url("/bg-wave.svg");
+  height: 96vh;
+}
+
+.layout > img {
+  object-fit: scale-down;
+  width: 45%;
+}
+
+@media only screen and (max-width: 727px) {
+  .layout > img {
+    display: none;
+  }
+}
