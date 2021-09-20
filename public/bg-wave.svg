@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="633px" viewBox="0 0 1440 633" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Path 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="56.6664749%" y1="91.6390309%" x2="56.6664749%" y2="25.8552264%" id="linearGradient-1">
+            <stop stop-color="#FCFCFC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E8FCF9" offset="38.0267702%"></stop>
+            <stop stop-color="#7AE0FC" stop-opacity="0.499836101" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="📜-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.310593378">
+        <g id="Login_Op1" transform="translate(0.000000, -391.000000)" fill="url(#linearGradient-1)">
+            <path d="M1440,949.807998 C1378.93412,853.009185 1301.03742,813.149826 1203.64908,813.149826 C1099,813.149826 851.768566,934.634855 650.54525,833.372039 C449.321934,732.109222 570.421161,507.341626 267.150525,454.13064 C252.037258,451.47891 235.966,449.393552 218.853603,447.926588 C129.876777,440.299029 55.4897428,417.518776 0,391 L0,1215.58594 C639.48527,1219.12842 1119.48527,1219.12842 1440,1215.58594 L1440,949.807998 Z" id="Path-4" transform="translate(720.000000, 804.621401) scale(-1, 1) translate(-720.000000, -804.621401) "></path>
+        </g>
+    </g>
+</svg>
